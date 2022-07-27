@@ -30,7 +30,7 @@ class DatabaseSeeder extends Seeder
             'kategori_id'=>1,
             'name'=>'Apple Pro Max',
             'harga'=>2000000,
-            'foto'=>'ip.jpg'
+            'foto'=>'images/ip.jpg'
         ]);
     }
 }
